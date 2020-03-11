@@ -1,4 +1,4 @@
-# burgerApp2 Offline Version
+# burgerApp Online Version
 
 ## Description
 
